@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="index.css">
+  <title>WEB</title>
+  <style>
+   
+  </style>
+</head>
+<h3 class="h3">SORRY, BUT THESE WEB CAN'T RUN IN MOBILE TABLET OR IN SMALL COMPUTER IT ONLY RUN IN THE 1400px*303px</h3>
+<body>
+ <header>
+<div class="nav-title">
+  <img  class="nav-img" src="user-regular.svg" alt="">  
+  <h3>COMPUTER SCIENCES</h3>
+ 
+</div >
+</header> 
+<div class="navbar">
+  <ul>
+    <li><a href="">Home</a></li>
+    <li><a href="">About</a></li>
+    <li><a href="">Contact</a></li>
+    <li><a href="">github</a></li>
+  </ul>
+</div>
+<!-- <nav bar close -->
+<div class="aside">
+<img src="tree.png" alt="logo"> 
+<form>
+  <input class="input" type="text" placeholder="name">
+  <br>
+  <br>
+  <input class="input" type="Email" placeholder="Email">
+  <br>
+  <br>
+  <input class="input" type="password" placeholder="Password">
+  <br>
+  <br>
+  <button id="submit"><a href="welcome.html">Submit</a></button>
+
+
+  <br>
+  <br>
+</form> 
+</div>
+
+   
+ </div>
+</body>
+</html>
